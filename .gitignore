@@ -1,0 +1,12 @@
+# Data archive (keep the extracted CSV, ignore the raw zip)
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor / harness
+.claude/

@@ -1,0 +1,14 @@
+# India High School Exoplanet Data Challenge — Python dependencies
+# Install with:  pip install -r requirements.txt
+numpy==2.2.6
+pandas==2.3.1
+scikit-learn==1.7.1
+matplotlib==3.10.5
+seaborn==0.13.2
+xgboost==3.0.4
+shap==0.52.0
+# Notebook runtime
+jupyter
+nbformat
+nbclient
+ipykernel
