@@ -1,0 +1,4 @@
+# Never apply EOL conversion to binaries / notebooks
+*.pdf -text
+*.png -text
+*.ipynb -text
