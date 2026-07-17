@@ -27,7 +27,7 @@ CANDIDATE↔CONFIRMED boundary (see the write-up for why).
 | File | What it is |
 |---|---|
 | [`exoplanet_classification.ipynb`](exoplanet_classification.ipynb) | **Main deliverable** — the full, reproducible notebook (EDA → leakage audit → feature engineering → modelling → explainability → report) |
-| [`REPORT.md`](REPORT.md) | Standalone written report (~680 words) |
+| [`report.pdf`](report.pdf) | Standalone written report (PDF, rubric-aligned) |
 | [`requirements.txt`](requirements.txt) | Pinned dependencies |
 | `Dataset/` | The KOI cumulative CSV + official data guide |
 | `figures/` | All generated plots (regenerated on every run) |
